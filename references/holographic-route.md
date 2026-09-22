@@ -11,3 +11,9 @@ python scripts/run_pipeline.py --project <project-dir> --mode holographic
 ```
 
 This route is the default when no two-state or lenticular behavior is requested.
+
+## Web presentation
+
+Keep the holographic viewer visually quiet so the card carries the experience. Use a flat white canvas, black sans-serif typography, no border around the card stage, and no decorative seals, framed panels, feature claims, archive copy, or “about this card” section. Show only the studio wordmark, card title metadata, direct card actions, and the four material/depth sliders. Buttons remain flat and borderless. The generated card back uses simple English typography instead of an ornamental emblem.
+
+Do not apply these interface rules to the two-image lenticular viewer; that route has its own template and interaction model.

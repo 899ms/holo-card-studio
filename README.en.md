@@ -73,6 +73,7 @@ Four layers share one canvas, and parallax pushes them apart in space:
 
 On top of that: laser rainbow (phase follows your viewing angle, so it flares wherever you turn), Voronoi sparkle, gold card edge.
 The browser rebuilds the four-layer composite with the same UV math via Three.js, reproducing the parallax and foil effect. Web shading and Blender's offline lighting differ, so colors, glow, and back artwork are not identical.
+The holographic viewer uses a borderless white canvas, black sans-serif type, and flat controls. It keeps only the card title, direct actions, and material/depth sliders so the artwork remains the focal point.
 
 ---
 
